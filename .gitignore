@@ -1,0 +1,8 @@
+# Build artifacts
+*.exe
+*.obj
+*.o
+run.log
+
+# Runtime-generated population save (regenerated each run)
+population.dat
